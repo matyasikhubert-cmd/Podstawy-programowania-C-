@@ -1,2 +1,2 @@
 # Podstawy-programowania-C-
-pliki 
+Tu beda moje zadania na kurs programowania C++
